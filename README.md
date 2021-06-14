@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Magalhães
 - 👀 I’m interested in Physics, mainly in the field of Astrophysics and Astronomy
-- 🌱 I’m currently a Physics undergrad at University of Sâo Paulo (USP)
+- 🌱 I’m currently a Physics undergrad at University of São Paulo (USP)
 - 📫 You can reach me by my university e-mail: arthurmaga@usp.br
 
 <!---
