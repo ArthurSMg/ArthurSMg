@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Arthur Magalhães
-- :telescope: I’m interested in Physics, mainly in the field of Astrophysics and Astronomy
-- 🌱 I’m currently a Physics undergrad at University of São Paulo (USP)
-- 📫 You can reach me by my university e-mail: arthurmaga@usp.br
+Hi, I'm Arthur Magalhães!
+
+I'm an currently an undergrad (astro)physics student at University of São Paulo (USP) 🇧🇷
+
+- :telescope: My field of work ans interests are star clusters, obeservational astronomy and data analysis.
+- 📫 You can reach me by my institutional e-mail: arthurmaga@usp.br
+
 
 <!---
 ArthurSMg/ArthurSMg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
