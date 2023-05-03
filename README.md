@@ -2,7 +2,7 @@ Hi, I'm Arthur Magalhães!
 
 I'm an currently an undergrad (astro)physics student at University of São Paulo (USP) 🇧🇷
 
-- :telescope: My field of work ans interests are star clusters, obeservational astronomy and data analysis.
+- :telescope: My field of work and interests are star clusters, obeservational astronomy and data analysis.
 - 📫 You can reach me by my institutional e-mail: arthurmaga@usp.br
 
 Here you can find some of my projets there are (sometimes) univserisity and research related. Such as:
