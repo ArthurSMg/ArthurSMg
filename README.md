@@ -5,7 +5,7 @@ I'm an currently an undergrad (astro)physics student at University of São Paulo
 - :telescope: My field of work and interests are star clusters, obeservational astronomy and data analysis.
 - 📫 You can reach me by my institutional e-mail: arthurmaga@usp.br
 
-Here you can find some of my projets there are (sometimes) univserisity and research related. Such as:
+Here you can find some of my projets that are (sometimes) academic related. Such as:
 
 - 🤖 A twitter bot to count how many days are left to the enf of the semester
 - ☄️ A program to plot comets' ephemerids
