@@ -1,4 +1,4 @@
-Hello, I'm Arthur Magalhães. I ma a physicist and currently a master's astronomy student at São Paulo University.
+Hello, I'm Arthur Magalhães. I am a physicist and currently a master's astronomy student at São Paulo University.
 
 Here you can find some of my projets that are (sometimes) academic related.
 
